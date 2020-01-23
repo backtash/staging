@@ -1,1 +1,2 @@
 First line created in local Git
+Second line is added in GitHub Online editor
